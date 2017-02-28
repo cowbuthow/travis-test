@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "jest --coverage"
+    "test": "jest --coverage"
   },
   "devDependencies": {
     "jest": "^19.0.0"
