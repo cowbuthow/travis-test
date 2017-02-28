@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^19.0.0"
+  }
+}
